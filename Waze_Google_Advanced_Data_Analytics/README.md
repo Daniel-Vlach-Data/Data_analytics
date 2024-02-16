@@ -106,3 +106,5 @@ Data Analysis Manager
 Waze
 
 (P.S. Don’t forget about our Data Superstars discussion group. Our next session is this Friday at 3pm. Each month, the team gets together to discuss the work of an innovative and inspiring historical figure. This month, it’s Ada Lovelace, often considered the world’s first computer programmer. This event is also a great opportunity to get to know your new teammates - and, if you want, try the outstanding coffee in the Waze cafe! Please join us!)
+
+Source: Google Advanced Data Analytics Professional Certificate on Coursera
